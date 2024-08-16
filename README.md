@@ -3,15 +3,7 @@
 
 - 🔭 I’m currently working on [CDN Rest API](https://github.com/xXleowXx/CDN-file-accesser)
 
-- 🌱 I’m currently learning **Angular framework**
-
-- 🤝 I’m looking for help with **Any project you think might be improved**
-
-- 💬 Ask me about **Discord bots and PHP**
-
-- 📫 How to reach me **leonard.lipowski@gmail.com**
-
-- ⚡ Fun fact **I work at IKEA in IT Desk**
+- 🌱 I’m currently learning **Flutter Bloc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
