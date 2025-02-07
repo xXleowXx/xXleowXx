@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter Bloc**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me at: leonard dot lipowski at gmail dot com</h3>
 <p align="left">
 </p>
 
