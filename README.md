@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [CDN Rest API](https://github.com/xXleowXx/CDN-file-accesser)
+- 🔭 I’m currently working on internal systems, integrations and flows.
 
 - 🌱 I’m currently learning **Flutter Bloc**
 
